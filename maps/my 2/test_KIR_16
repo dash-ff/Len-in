@@ -1,0 +1,41 @@
+30
+B 2 0
+C 2 6
+D 4 2
+##start
+A 0 2
+##end
+G 4 4
+F 1 0
+H 1 1
+E 1 2
+I 1 3
+J 1 4
+K 1 5
+11 1 6
+M 1 31
+N 1 32
+O 1 33
+P 1 34
+Q 1 35
+A-B
+B-C
+C-D
+D-E
+E-F
+F-G
+A-H
+H-I
+I-J
+J-K
+K-11
+11-M
+M-N
+N-O
+O-P
+P-Q
+Q-G
+I-C
+C-11
+M-E
+E-P

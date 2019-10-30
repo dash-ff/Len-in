@@ -1,0 +1,30 @@
+30
+B 2 0
+C 2 6
+D 4 2
+##start
+A 0 2
+##end
+E 4 4
+F 1 0
+H 1 1
+G 1 2
+I 1 3
+J 1 30
+K 1 31
+11 1 32
+A-B
+B-C
+C-D
+D-E
+B-F
+F-G
+G-H
+H-I
+I-J
+J-E
+A-K
+K-11
+11-C
+G-D
+D-J

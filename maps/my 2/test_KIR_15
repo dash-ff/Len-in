@@ -1,0 +1,19 @@
+30
+B 2 0
+C 2 6
+D 4 2
+##start
+A 0 2
+##end
+F 4 4
+E 1 1
+G 1 2
+A-B
+B-C
+C-D
+D-E
+E-F
+A-G
+G-F
+B-G
+G-E

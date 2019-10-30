@@ -1,0 +1,66 @@
+30
+B 2 0
+C 2 6
+D 4 2
+##start
+A 0 2
+##end
+G 4 4
+F 1 0
+H 1 1
+E 1 2
+I 1 3
+J 1 4
+K 1 5
+11 1 6
+M 1 7
+N 1 8
+O 1 9
+P 1 310
+Q 1 311
+R 1 312
+S 1 314
+T 1 315
+U 1 316
+V 1 317
+W 1 318
+X 1 39
+Y 1 32
+Z 1 30
+A_1 1 333
+A-B
+B-C
+C-D
+D-E
+E-F
+F-G
+A-H
+H-I
+I-J
+J-K
+K-11
+11-M
+M-N
+N-O
+O-P
+P-Q
+Q-G
+I-C
+C-11
+M-E
+E-P
+A-R
+R-S
+S-T
+T-U
+U-V
+V-W
+W-X
+X-Y
+Y-Z
+Z-A_1
+A_1-G
+S-C
+V-C
+W-E
+Z-E
